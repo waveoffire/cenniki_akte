@@ -1,0 +1,8 @@
+[kolor1]#42d4f4[/kolor1]
+[kolor2][/kolor2]
+[kolor3][/kolor3]
+[dbhost][/dbhost]
+[dbname][/dbname]
+[dbpass][/dbpass]
+[dbb][/dbb]
+[dbport][/dbport]
